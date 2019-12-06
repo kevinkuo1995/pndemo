@@ -1,0 +1,6 @@
+framework module Pods_pndemo {
+  umbrella header "Pods-pndemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
